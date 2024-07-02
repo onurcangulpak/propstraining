@@ -1,0 +1,39 @@
+.credit-card-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: nowrap; 
+  margin: 15px;
+}
+
+
+.logo img {
+  width: 50px;
+  height: 30px;
+  margin-left: 280px;
+  margin-top: 10px;
+}
+
+.card-number {
+  font-size: 1.8em;
+  margin-top: 10px;
+  width: 100%;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.expires {
+  height: 42px;
+  font-size: 1.2em;
+  margin-bottom: 15px;
+  padding-left: 10px;
+}
+.owner {
+  font-size: 1.2em;
+  padding-left: 10px;
+  margin-bottom: 20px;
+  height: 40px;
+
+}

@@ -1,0 +1,9 @@
+.Greetings {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 16px 0;
+  background-color: rgb(183, 198, 198);
+  box-shadow: 0 4px 8px rgba(0,0,0, 0.1);
+  font-size: 1.2em;
+}

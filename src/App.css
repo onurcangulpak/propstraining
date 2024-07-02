@@ -1,0 +1,17 @@
+.h1 {
+  text-align: center;
+  margin: 20px 0;
+}
+body {
+  background-color: beige;
+}
+.numbers {
+  background-color: antiquewhite;
+  border: 2px solid rgba(23, 73, 84, 0.454);
+}
+
+.card-container {
+  display: flex;
+  border: 2px solid rgba(23, 73, 84, 0.454);
+
+}
